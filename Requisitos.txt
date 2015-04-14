@@ -1,0 +1,11 @@
+Projeto Loteria
+===============
+
+Com a necessidade de toda vez que preciso conferir os meus jogos, preciso abrir no note book ou computador para fazer o processo. 
+
+A idéia é desenvolver um aplicativo onde eu tenha salvo os meus jogos da lotofacil e quina. 
+
+Neste aplicativo preciso vincular estes jogos aos concursos que estou participando, para que quando o resultado sair, eu possa realizar a conferencia destes.
+
+Preciso ser avisado quando estiver chegando ao fim os concursos que estou participando.
+
